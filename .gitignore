@@ -1,0 +1,38 @@
+# ===== ENTORNOS Y DEPENDENCIAS =====
+venv/
+env/
+__pycache__/
+*.pyc
+
+# ===== NODE & REACT =====
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ===== CONFIGURACIONES LOCALES =====
+.DS_Store
+.env
+*.sqlite3
+
+# ===== VISUAL STUDIO CODE =====
+.vscode/
+
+# ===== ARCHIVOS TEMPORALES =====
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ===== SISTEMA OPERATIVO =====
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ===== CARPETAS DEL PROYECTO =====
+/frontend/node_modules/
+/frontend/build/
+/backend/__pycache__/
+/backend/venv/
